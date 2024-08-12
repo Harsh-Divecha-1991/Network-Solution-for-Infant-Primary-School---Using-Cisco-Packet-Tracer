@@ -21,9 +21,7 @@ This README file provides a comprehensive overview of the network solution desig
 ## 🖼️ Network Diagram
 A visual representation of the network design is crucial for understanding the layout and connectivity of the network components. The network diagram is created using Cisco Packet Tracer to simulate basic network operations.
 
-![Network Diagram](path/to/diagram)
-
----
+![Full Diagram](https://github.com/user-attachments/assets/8f834ead-172f-4423-8fdf-ee034a41d842)
 
 ## 🛠️ Equipment Selection and Justification
 ### Routers and Switches
